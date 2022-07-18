@@ -10,7 +10,7 @@ class Solution:
         for i in nums:
             min_num = 0
             if i < min_num:
-                
+                pass
         j = 1
         temp = []
         if nums == [] or nums == [0]:
